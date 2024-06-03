@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vjoyFeeder/1.0.0": {
+        "dependencies": {
+          "vJoyInterfaceWrap": "0.2.1.6"
+        },
+        "runtime": {
+          "vjoyFeeder.dll": {}
+        }
+      },
+      "vJoyInterfaceWrap/0.2.1.6": {
+        "runtime": {
+          "vJoyInterfaceWrap.dll": {
+            "assemblyVersion": "0.2.1.6",
+            "fileVersion": "2.1.6.999"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vjoyFeeder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vJoyInterfaceWrap/0.2.1.6": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
